@@ -35,7 +35,7 @@ namespace Updater
             };
             timer.Elapsed += delegate
             {
-                AutoUpdater.Start("");
+                AutoUpdater.Start("https://raw.githubusercontent.com/lils0uxz/Updater/master/Update.xml");
             };
             timer.Start();
         }
@@ -75,7 +75,7 @@ namespace Updater
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            AutoUpdater.Start("");
+            AutoUpdater.Start("https://raw.githubusercontent.com/lils0uxz/Updater/master/Update.xml");
         }
     }
 }

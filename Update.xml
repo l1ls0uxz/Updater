@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>2.0.0.0</version>
-  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>
-    https://github.com/lils0uxz/Updater/releases
-  </changelog>
+  <url>https://github.com/lils0uxz/Updater/releases/download/v2.0.0.0/Debug.zip</url>
+  <changelog>https://github.com/lils0uxz/Updater/releases</changelog>
   <mandatory>false</mandatory>
 </item>
